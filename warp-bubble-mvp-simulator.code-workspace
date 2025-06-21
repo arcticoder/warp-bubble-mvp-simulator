@@ -3,6 +3,22 @@
     {
       "path": ".",
       "name": "warp-bubble-mvp-simulator"
+    },
+    {
+      "path": "../warp-bubble-optimizer",
+      "name": "warp-bubble-optimizer"
+    },
+    {
+      "path": "../warp-bubble-parameter-constraints",
+      "name": "warp-bubble-parameter-constraints"
+    },
+    {
+      "path": "../warp-bubble-shape-catalog",
+      "name": "warp-bubble-shape-catalog"
+    },
+    {
+      "path": "../warp-mock-data-generator",
+      "name": "warp-mock-data-generator"
     }
   ],
   "extensions": {
