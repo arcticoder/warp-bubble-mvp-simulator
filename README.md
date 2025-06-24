@@ -1,10 +1,10 @@
 # Warp Bubble MVP Digital Twin Simulator
 
-Complete digital-twin simulation suite for warp bubble spacecraft development.
+Digital-twin simulation suite for warp bubble spacecraft development.
 
 ## Features
 
-- **Complete Hardware Digital Twins**: Power, flight computer, sensors, exotic generators
+- **Hardware Digital Twins**: Power, flight computer, sensors, exotic generators
 - **Adaptive Fidelity Simulation**: Progressive resolution enhancement from coarse to ultra-fine
 - **Monte Carlo Reliability Analysis**: Statistical mission success assessment
 - **Real-time Performance Monitoring**: >10 Hz control loops with <1% overhead
@@ -41,7 +41,7 @@ python demos/demo_full_warp_simulated_hardware.py
 
 ## Documentation
 
-See `docs/` for comprehensive documentation including:
+See `docs/` for documentation including:
 - MVP architecture overview
 - Digital twin specifications
 - Performance analysis
