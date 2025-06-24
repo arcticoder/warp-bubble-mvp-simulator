@@ -13,7 +13,7 @@ Digital-twin simulation suite for warp bubble spacecraft development.
 ## Quick Start
 
 ```bash
-# Complete MVP simulation
+# MVP simulation
 python src/simulate_full_warp_MVP.py
 
 # Adaptive fidelity progression
